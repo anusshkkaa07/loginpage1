@@ -1,0 +1,7 @@
+.box{
+    background-color: lightblue;
+    border: 2px solid blue;
+    min-height: 50px;
+    font-size: 2rem;
+    color: black;
+}

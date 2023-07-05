@@ -1,0 +1,20 @@
+body{
+    background-image: url();
+}
+
+.card{
+    padding: 25%;
+}
+
+#eye{
+    background-color: transparent;
+    border-top: grey 1px solid;
+    border-right: grey 1px solid;
+    border-bottom: grey 1px solid;
+    border-left: none;
+
+}
+#eye:hover{
+    background-color: dimgrey;
+}
+

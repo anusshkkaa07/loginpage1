@@ -1,0 +1,10 @@
+function showPassword(){
+          let password=document.getElementById("password")
+          let passHide=document.getElementById("eye")
+
+          if(passHide.click){
+            password.type="text"
+          }else {
+            password.type="password"
+          }
+        }
